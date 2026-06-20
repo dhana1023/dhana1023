@@ -95,7 +95,7 @@ Outside research, I build production tools: retail forecasting models, anomaly d
 <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white"/>
 </p>
 
-> *Cloud platforms, Airflow, dbt, Kubernetes, and GitHub Actions reflect coursework, self-study, and project-level exposure rather than multi-year production ownership — happy to go deeper on any of these in conversation.*
+> *Cloud platforms, Airflow, dbt, Kubernetes, and GitHub Actions reflect coursework, self-study, and project-level exposure rather than multi-year production ownership, happy to go deeper on any of these in conversation.*
 
 <br/>
 

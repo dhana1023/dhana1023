@@ -29,16 +29,13 @@ My M.Tech thesis at NIT Karnataka (CGPA 8.36/10) focused on **user interest drif
 
 Outside research, I build production tools: retail forecasting models, anomaly detection systems, and real-time data pipelines. I'm most energized by the moment a model stops being a notebook experiment and starts being something a business actually depends on.
 
-```text
-const dhananjani = {
-    role: ["Data Scientist", "ML Engineer", "Data Engineer"],
-    based_in: "Auckland, New Zealand",
-    education: "M.Tech Computer Science, NIT Karnataka (CGPA 8.36/10)",
-    research: ["Streaming ML", "Recommendation Systems", "Time-Series Forecasting"],
-    currently_exploring: ["MLOps", "LLM tooling", "Cloud-native data platforms"],
-    open_to: "Data Science / ML / Data Engineering roles in NZ 🇳🇿"
-};
-```
+🎯 Roles: Data Scientist · ML Engineer · Data Engineer
+📍 Based in: Auckland, New Zealand
+🎓 Education: M.Tech Computer Science, NIT Karnataka (CGPA 8.36/10)
+🔬 Research: Streaming ML · Recommendation Systems · Time-Series Forecasting
+🌱 Currently exploring: MLOps · LLM tooling · Cloud-native data platforms
+💼 Open to: Data Science / ML / Data Engineering roles in NZ 🇳🇿
+
 
 <br/>
 

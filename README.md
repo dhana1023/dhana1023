@@ -2,7 +2,7 @@
 
 # Hi, I'm Dhananjani Jayarukshi 👋
 
-### Data Scientist · ML Researcher · M.Tech Computer Science (NIT Karnataka)
+### Data Scientist · ML Researcher · M.Tech Computer Science (NIT Karnataka, India)
 
 *Building real-time recommendation systems, forecasting tools, and production-grade data pipelines.*
 

@@ -5,7 +5,6 @@
 ### Data Scientist · ML Researcher · M.Tech Computer Science (NIT Karnataka)
 
 *Building real-time recommendation systems, forecasting tools, and production-grade data pipelines.*
-*Published researcher in streaming ML systems and IoT sensor applications.*
 
 <br/>
 
@@ -25,17 +24,9 @@
 
 I'm a Computer Science postgraduate based in Auckland, New Zealand, working at the intersection of **machine learning, data engineering, and real-world business problems**.
 
-My M.Tech thesis at NIT Karnataka (CGPA 8.36/10) focused on **user interest drift detection in real-time streaming recommendation systems**, combining CUDA-accelerated GPU inference, stratified reservoir sampling, and multi-view attention mechanisms — published at IEEE ISACC 2025.
+My M.Tech thesis at NIT Karnataka (CGPA 8.36/10) focused on **user interest drift detection in real-time streaming recommendation systems**, combining CUDA-accelerated GPU inference, stratified reservoir sampling, and multi-view attention mechanisms.
 
 Outside research, I build production tools: retail forecasting models, anomaly detection systems, and real-time data pipelines. I'm most energized by the moment a model stops being a notebook experiment and starts being something a business actually depends on.
-
-🎯 Roles: Data Scientist · ML Engineer · Data Engineer
-📍 Based in: Auckland, New Zealand
-🎓 Education: M.Tech Computer Science, NIT Karnataka (CGPA 8.36/10)
-🔬 Research: Streaming ML · Recommendation Systems · Time-Series Forecasting
-🌱 Currently exploring: MLOps · LLM tooling · Cloud-native data platforms
-💼 Open to: Data Science / ML / Data Engineering roles in NZ 🇳🇿
-
 
 <br/>
 
@@ -116,7 +107,6 @@ Outside research, I build production tools: retail forecasting models, anomaly d
 
 ### 🎯 Streaming Recommendation System
 Real-time user interest drift detection using CUDA-accelerated GPU inference, stratified reservoir sampling, and multi-view attention.
-**Published:** IEEE ISACC 2025
 `Python` `PyTorch` `CUDA` `Spark Streaming`
 
 </td>
